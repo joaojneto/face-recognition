@@ -1,5 +1,7 @@
 # FACE RECGONITION APP (Elastic Vector Search)
 
+[SLIDE DECK]([Search%20Project]%20Vectors_%20You%20Know,%20for%20Search.pdf)
+
 ### Environment
 
 Python 3.12.3
