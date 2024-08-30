@@ -1,0 +1,3 @@
+https://elasticsearch-endpoint.cloud.es.io:9243
+user
+password
